@@ -1,6 +1,6 @@
 # A Classification Benchmark based on the Literary Theme Ontology
 
-This repository contains the benchmark data described in the manuscript “A Classification Benchmark based on the Literary Theme Ontology.”
+This repository contains the benchmark data described in the manuscript “A Classification Benchmark based on the Literary Theme Ontology.” (and also code for reproducing the experiments?)
 
 
 ## Questions and Feedback
